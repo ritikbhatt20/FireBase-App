@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/andika</item>
+        <item>@font/anton</item>
+        <item>@font/archivo_black</item>
+        <item>@font/baloo</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/calistoga</item>
+        <item>@font/rowdies_light</item>
+        <item>@font/sora_thin</item>
+    </array>
+</resources>
